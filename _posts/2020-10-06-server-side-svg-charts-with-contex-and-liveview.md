@@ -1,12 +1,11 @@
----
-author: Sophie DeBenedetto
-author_link: https://github.com/sophiedebenedetto
-categories: general
-date: 2020-10-06
-layout: post
-title: "Real-Time SVG Charts with Contex and LiveView"
-excerpt: >
-  Learn how to use the Contex package to render server-side SVG charts that you can update in real-time with LiveView.
+%{
+  author: "Sophie DeBenedetto",
+  author_link: "https://github.com/sophiedebenedetto",
+  tags: ["liveview"],
+  date: ~D[2020-10-06],
+  title: "Real-Time SVG Charts with Contex and LiveView"
+  excerpt: "Learn how to use the Contex package to render server-side SVG charts that you can update in real-time with LiveView."
+}
 ---
 This post is inspired by some of my work, together with [Bruce Tate](https://twitter.com/redrapids), on Pragmatic Bookshelf's upcoming book on LiveView. Elixir School is happy to be able to offer a give-away of a small number e-books once they are published, so stay tuned for updates!
 
